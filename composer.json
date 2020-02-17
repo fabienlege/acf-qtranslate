@@ -1,0 +1,13 @@
+{
+  "name": "fabienlege/acf-qtranslate",
+  "description": "Fork of original funkjedi/acf-qtranslate for ACF Fields translation.",
+  "type": "wordpress-plugin",
+  "license": "MIT",
+  "authors": [
+      {
+          "name": "NSI Agence ho5",
+          "email": "fabien.lege@ho5group.com"
+      }
+  ],
+  "require": {}
+}
